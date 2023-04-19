@@ -3,7 +3,7 @@
 - 👀 I’m interested in Flutter App Development
 - 🌱 I’m an Engineering Graduate in Computer Science
 - ⭐️ Fun Fact I learnt cross platform to get a feel of Cupertino 
-- 📫 Reach me on LinkedIn @[pritamdas1498](linkedin.com/in/pritamdas1498/)
+- 📫 Reach me on LinkedIn @[pritamdas1498](https://www.linkedin.com/in/pritamdas1498/)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritamdas1498) 
